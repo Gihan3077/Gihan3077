@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="gihan.edu.sl@gmail.com">
+  <a href="www.gihan.edu.sl@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/gihan-kodikara-a4306b23a/" target="_blank">
