@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on <a>TechGizmo.com</a>
+ 🔭 I’m currently working on [TechGizmo](https://github.com/Gihan3077/TechGizmo)**
  
  🌱 I’m currently learning **Swing, Firebase, AWS**
 
