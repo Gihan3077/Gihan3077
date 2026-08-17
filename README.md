@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [TechGizmo](https://github.com/Gihan3077/TechGizmo)**
+ 🔭 I’m currently working on [HyperNexusUltra Team](https://www.hypernexus-ultra.com/)**
  
- 🌱 I’m currently learning **Swing, Firebase, AWS**
+ 🌱 I’m currently learning **Docker, Linux, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Gihan3077/Gihan3077/issues)**
 
